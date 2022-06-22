@@ -1,0 +1,14 @@
+D:\VisualStudio\Projects\Lobo_RBLX\Lobo_RBLX\bin\Debug\Lobo_RBLX.exe.config
+D:\VisualStudio\Projects\Lobo_RBLX\Lobo_RBLX\bin\Debug\Lobo_RBLX.exe
+D:\VisualStudio\Projects\Lobo_RBLX\Lobo_RBLX\bin\Debug\Lobo_RBLX.pdb
+D:\VisualStudio\Projects\Lobo_RBLX\Lobo_RBLX\bin\Debug\FastColoredTextBox.dll
+D:\VisualStudio\Projects\Lobo_RBLX\Lobo_RBLX\bin\Debug\KrnlAPI.dll
+D:\VisualStudio\Projects\Lobo_RBLX\Lobo_RBLX\obj\Debug\Lobo_RBLX.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\Lobo_RBLX\Lobo_RBLX\obj\Debug\Lobo_RBLX.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Projects\Lobo_RBLX\Lobo_RBLX\obj\Debug\Lobo_RBLX.Form1.resources
+D:\VisualStudio\Projects\Lobo_RBLX\Lobo_RBLX\obj\Debug\Lobo_RBLX.Properties.Resources.resources
+D:\VisualStudio\Projects\Lobo_RBLX\Lobo_RBLX\obj\Debug\Lobo_RBLX.csproj.GenerateResource.cache
+D:\VisualStudio\Projects\Lobo_RBLX\Lobo_RBLX\obj\Debug\Lobo_RBLX.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\Lobo_RBLX\Lobo_RBLX\obj\Debug\Lobo_RBLX.csproj.CopyComplete
+D:\VisualStudio\Projects\Lobo_RBLX\Lobo_RBLX\obj\Debug\Lobo_RBLX.exe
+D:\VisualStudio\Projects\Lobo_RBLX\Lobo_RBLX\obj\Debug\Lobo_RBLX.pdb
